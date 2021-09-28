@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --theme book
+        run: hugo --minify --theme book -b https://quirinecker.github.io/beamvr-webpage/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
