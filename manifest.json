@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
+  "name": "Beam VR",
+  "short_name": "Beam VR",
   "start_url": "/beamvr-webpage/",
   "scope": "/beamvr-webpage/",
   "display": "standalone",
