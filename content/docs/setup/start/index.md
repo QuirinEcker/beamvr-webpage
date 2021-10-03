@@ -16,7 +16,8 @@ draft: false
 ## Preferred Way 
 
 The game is found in the `Documents` folder of the pc. Double click it and everything should work. If Steam Vr is 
-not starting up, start it up manually. For starting steam vr look into [SteamVR]({{< ref "/docs/setup/steamvr" >}}
+not starting up, start it up manually. For starting steam vr look into [SteamVR]({{< ref 
+"/docs/setup/steamvr" >}}
 "SteamVR").
 
 ## Build it yourself
