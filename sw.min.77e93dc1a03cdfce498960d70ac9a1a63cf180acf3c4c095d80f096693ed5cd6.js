@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/beamvr-webpage/sw.js",{scope:"/beamvr-webpage/"})
