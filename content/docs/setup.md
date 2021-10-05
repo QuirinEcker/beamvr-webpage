@@ -11,4 +11,4 @@ Beam vr is a application which combines virtual an real reality.
 
 ## 2. Start the application
 
-- [start application](setup/start)
+- [start application](setup/start-application)

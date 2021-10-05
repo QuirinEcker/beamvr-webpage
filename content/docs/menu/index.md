@@ -3,6 +3,6 @@ headless: true
 ---
 
 - [Setup]({{< relref "/docs/setup" >}})
-  - [Start]({{< relref "/docs/setup/start" >}})
+  - [Start Application]({{< relref "/docs/setup/start-application" >}})
 - [Items]({{< relref "/docs/items" >}})
   - [Vive Tracker]({{< relref "/docs/items/viveTracker" >}})
