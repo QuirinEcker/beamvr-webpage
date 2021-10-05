@@ -6,9 +6,5 @@ draft: false
 
 # Setup
 
-Beam vr is a application which combines virtual an real reality.
-
-
-## 2. Start the application
-
-- [start application](setup/start-application)
+1. [start application](setup/start-application)
+2. [Setup VR Glasses Wireless](setup/setup-vr-glasses-wireless) or [Setup VR Glasses Wired](setup/setup-vr-glasses-wireless)

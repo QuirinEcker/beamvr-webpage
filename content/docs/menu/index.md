@@ -4,6 +4,8 @@ headless: true
 
 - [Setup]({{< relref "/docs/setup" >}})
   - [Start Application]({{< relref "/docs/setup/start-application" >}})
+  - [Setup VR Glasses Wireless]({{< relref "/docs/setup/setup-vr-glasses-wireless" >}})
+  - [Setup VR Glasses Wired]({{< relref "/docs/setup/setup-vr-glasses-wired" >}})
 - [Items]({{< relref "/docs/items" >}})
   - [Vive Tracker]({{< relref "/docs/items/vive-tracker" >}})
   - [Vive Tracker Dock]({{< relref "/docs/items/vive-tracker-dock" >}})
