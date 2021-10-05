@@ -6,7 +6,7 @@ draft: false
 
 # Vive Tracker
 
-<img src="./img/viveTracker.jpg" alt="Vive Tracker Image" width="50%">
+<img src="./img/vive-tracker.jpg" alt="Vive Tracker Image">
 
 ## Sticker
 
