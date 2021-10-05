@@ -18,10 +18,10 @@ This document lists all the items available and required for the beam vr applica
 
 ## Cables
 
-- USB C to USB A Cable
-- Micro USB to USB A Cable
-- USB A to USB A Cable
-- DCIN Cable
+- [USB C to USB A Cable](docs/items/usb-c-to-usb-a)
+- [Micro USB to USB A Cable](docs/items/usb-micro-to-usb-a)
+- [USB A to USB A Cable](docs/items/usb-a-to-usb-a)
+- [DCIN Cable](docs/items/dcin)
 
 ## Other
 - Vive VR Glasses
