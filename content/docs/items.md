@@ -23,11 +23,15 @@ This document lists all the items available and required for the beam vr applica
 - [USB A to USB A Cable](docs/items/usb-a-to-usb-a)
 - [DCIN Cable](docs/items/dcin)
 
+## Wireless
+
+- [Vive Wireless Module](docs/items/vive-wireless-module)
+- [Power Bank](docs/items/power-bank)
+
+
 ## Other
 - Vive VR Glasses
 - Vive Controller
-- Power Bank
-- Vive Wireless Module
 - Vive Video Cable
 - Vive Glasses Protection
 - Vive Lighthouse

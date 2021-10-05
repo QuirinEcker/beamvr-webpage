@@ -14,3 +14,5 @@ headless: true
   - [USB Micro to USB A Cable]({{< relref "/docs/items/usb-micro-to-usb-a" >}})
   - [USB A to USB A Cable]({{< relref "/docs/items/usb-a-to-usb-a" >}})
   - [DCIN Cable]({{< relref "/docs/items/dcin" >}})
+  - [Vive Wireless Module]({{< relref "/docs/items/vive-wireless-module" >}})
+  - [Power Bank]({{< relref "/docs/items/power-bank" >}})
