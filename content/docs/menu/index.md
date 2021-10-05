@@ -16,3 +16,8 @@ headless: true
   - [DCIN Cable]({{< relref "/docs/items/dcin" >}})
   - [Vive Wireless Module]({{< relref "/docs/items/vive-wireless-module" >}})
   - [Power Bank]({{< relref "/docs/items/power-bank" >}})
+  - [Vive Face Pillow]({{< relref "/docs/items/vive-face-pillow" >}})
+  - [Vive Head Pillow]({{< relref "/docs/items/vive-head-pillow" >}})
+  - [Vive Foamed Face Pillow]({{< relref "/docs/items/vive-foamed-face-pillow" >}})
+  - [Vive Foamed Head Pillow]({{< relref "/docs/items/vive-foamed-head-pillow" >}})
+  - [Vive Face and Head Pillow Cleaning kit]({{< relref "/docs/items/cleaning-kit" >}})

@@ -28,6 +28,13 @@ This document lists all the items available and required for the beam vr applica
 - [Vive Wireless Module](docs/items/vive-wireless-module)
 - [Power Bank](docs/items/power-bank)
 
+## Pillows and Hygiene
+
+- [Vive Face Pillow](/docs/items/vive-face-pillow)
+- [Vive Head Pillow](/docs/items/vive-head-pillow)
+- [Vive Foamed Face Pillow](/docs/items/vive-foamed-face-pillow)
+- [Vive Foamed Head Pillow](/docs/items/vive-foamed-head-pillow)
+- [Vive Face and Head Pillow Cleaning kit](/docs/items/cleaning-kit)
 
 ## Other
 - Vive VR Glasses
@@ -35,10 +42,5 @@ This document lists all the items available and required for the beam vr applica
 - Vive Video Cable
 - Vive Glasses Protection
 - Vive Lighthouse
-- Vive Face Pillow
-- Vive Head Pillow
 - Vive Box Pad
-- Vive Face and Head Pillow Cleaning kit
-- Vive Foamed Face Pillow
-- Vive Foamed Head Pillow
 - Vive Box
