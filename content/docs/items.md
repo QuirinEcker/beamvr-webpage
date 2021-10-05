@@ -36,11 +36,11 @@ This document lists all the items available and required for the beam vr applica
 - [Vive Foamed Head Pillow](/docs/items/vive-foamed-head-pillow)
 - [Vive Face and Head Pillow Cleaning kit](/docs/items/cleaning-kit)
 
-## Other
-- Vive VR Glasses
-- Vive Controller
-- Vive Video Cable
-- Vive Glasses Protection
-- Vive Lighthouse
-- Vive Box Pad
-- Vive Box
+## Vive
+
+- [Vive VR Glasses](/docs/items/vive-vr-glasses)
+- [Vive Controller](/docs/items/vive-controller)
+- [Vive Video Cable](/docs/items/vive-video-cable)
+- [Vive Glasses Protection](/docs/items/vive-glasses-protection)
+- [Vive Lighthouse](/docs/items/vive-lighthouse)
+- [Vive Box](/docs/items/vive-box)
