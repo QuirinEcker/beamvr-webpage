@@ -16,20 +16,23 @@ This document lists all the items available and required for the beam vr applica
 - [Vive Tracker Foot Straps](docs/items/vive-tracker-foot-straps)
 - [Vive Tracker Belt Straps](docs/items/vive-tracker-belt-strap)
 
+## Cables
+
+- USB C to USB A Cable
+- Micro USB to USB A Cable
+- USB A to USB A Cable
+- DCIN Cable
+
 ## Other
 - Vive VR Glasses
 - Vive Controller
-- USB C to USB A Cable
 - Power Bank
-- Micro USB to USB A Cable
-- USB A to USB A Cable
 - Vive Wireless Module
 - Vive Video Cable
 - Vive Glasses Protection
 - Vive Lighthouse
 - Vive Face Pillow
 - Vive Head Pillow
-- DCIN Cable
 - Vive Box Pad
 - Vive Face and Head Pillow Cleaning kit
 - Vive Foamed Face Pillow
