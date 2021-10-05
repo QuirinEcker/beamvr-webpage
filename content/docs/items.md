@@ -10,7 +10,7 @@ This document lists all the items available and required for the beam vr applica
 
 ## Tracker Equipment
 
-- [Vive Tracker](./viveTracker)
+- [Vive Tracker](/docs/items/vive-tracker)
 - Vive Tracker Dongle
 - Vive Tracker Dock
 - Vive Tracker Foot Straps
