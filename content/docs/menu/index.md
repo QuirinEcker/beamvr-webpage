@@ -6,3 +6,5 @@ headless: true
   - [Start Application]({{< relref "/docs/setup/start-application" >}})
 - [Items]({{< relref "/docs/items" >}})
   - [Vive Tracker]({{< relref "/docs/items/vive-tracker" >}})
+  - [Vive Tracker Dock]({{< relref "/docs/items/vive-tracker-dock" >}})
+

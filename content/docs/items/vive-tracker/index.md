@@ -21,13 +21,6 @@ H or nothing.
 | R     | Tracker for the right Foot    |
 | L     | Tracker for the left Foot     |
 
-## Related items to the tracker
-
-- Vive Tracker Dongle
-- Vive Tracker Dock
-- Vive Tracker Foot Straps
-- Vive Tracker Belt Straps
-
 ## Ports
 
 ### Charging port
