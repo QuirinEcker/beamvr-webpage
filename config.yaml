@@ -19,11 +19,8 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/quirinecker/beamvr-webpage"
       weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
-      weight: 20
 
 # Multi-lingual mode config
 # There are different options to translate files
