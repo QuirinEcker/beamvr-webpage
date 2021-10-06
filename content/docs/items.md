@@ -27,6 +27,8 @@ This document lists all the items available and required for the beam vr applica
 
 - [Vive Wireless Module](docs/items/vive-wireless-module)
 - [Power Bank](docs/items/power-bank)
+- [Vive Wireless linkbox](docs/items/vive-wireless-linkbox)
+- [Vive Wireless Card](docs/items/vive-wireless-card)
 
 ## Pillows and Hygiene
 
