@@ -7,6 +7,7 @@ headless: true
   - [Setup VR Glasses Wireless]({{< relref "/docs/setup/setup-vr-glasses-wireless" >}})
   - [Setup VR Glasses Wired]({{< relref "/docs/setup/setup-vr-glasses-wired" >}})
   - [Setup Tracker]({{< relref "/docs/setup/setup-tracker" >}})
+  - [Disable Gravity]({{< relref "/docs/setup/disable-gravity" >}})
 - [Items]({{< relref "/docs/items" >}})
   - [Vive Tracker]({{< relref "/docs/items/vive-tracker" >}})
   - [Vive Tracker Dock]({{< relref "/docs/items/vive-tracker-dock" >}})
